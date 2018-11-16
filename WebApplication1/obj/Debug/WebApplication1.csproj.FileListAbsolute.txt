@@ -1,0 +1,11 @@
+C:\Users\KÜBRA\Desktop\proje 2\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\KÜBRA\Desktop\proje 2\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\KÜBRA\Desktop\proje 2\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\KÜBRA\Desktop\proje 2\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\KÜBRA\Desktop\proje 2\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\KÜBRA\Desktop\kübra köse_160622090\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\KÜBRA\Desktop\kübra köse_160622090\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\KÜBRA\Desktop\kübra köse_160622090\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+F:\ebru\KÜBRA KÖSE HP MASAÜSTÜ\kübra köse_160622090 ASP.NETLE PROJEM\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+F:\ebru\KÜBRA KÖSE HP MASAÜSTÜ\kübra köse_160622090 ASP.NETLE PROJEM\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+F:\ebru\KÜBRA KÖSE HP MASAÜSTÜ\kübra köse_160622090 ASP.NETLE PROJEM\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
